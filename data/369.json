@@ -5592,6 +5592,96 @@
           "name": "Zertik, Heinrich",
           "party": "CDU/CSU",
           "vote": "ja"
+        },
+        {
+          "id": "259226",
+          "URL": "https://www.bundestag.de/redirect/259226",
+          "imgURL": "https://www.bundestag.de/resource/image/241828/3x4/170/227/7970118be3dd21ac89539aac76bfc1cb/hH/zeulner_emmi_gross.jpg",
+          "state": "Bayern",
+          "name": "Zeulner, Emmi",
+          "party": "CDU/CSU",
+          "vote": "ja"
+        },
+        {
+          "id": "259236",
+          "URL": "https://www.bundestag.de/redirect/259236",
+          "imgURL": "https://www.bundestag.de/resource/image/241820/3x4/170/227/8df7989ab8c65b70a359912ec39eaa95/sB/ziegler_dagmar_gross.jpg",
+          "state": "Brandenburg",
+          "name": "Ziegler, Dagmar",
+          "party": "SPD",
+          "vote": "ja"
+        },
+        {
+          "id": "259238",
+          "URL": "https://www.bundestag.de/redirect/259238",
+          "imgURL": "https://www.bundestag.de/resource/image/241824/3x4/170/227/a939caae6d0e9f216a2889dce3da041f/wo/zierke_stefan_gross.jpg",
+          "state": "Brandenburg",
+          "name": "Zierke, Stefan",
+          "party": "SPD",
+          "vote": "ja"
+        },
+        {
+          "id": "259222",
+          "URL": "https://www.bundestag.de/redirect/259222",
+          "imgURL": "https://www.bundestag.de/resource/image/241830/3x4/170/227/e9251b199c2d1dd96dd617691d98f78/Ff/zimmer_matthias_gross.jpg",
+          "state": "Hessen",
+          "name": "Zimmer, Prof. Dr. Matthias",
+          "party": "CDU/CSU",
+          "vote": "ja"
+        },
+        {
+          "id": "259596",
+          "URL": "https://www.bundestag.de/redirect/259596",
+          "imgURL": "https://www.bundestag.de/resource/image/242382/3x4/170/227/d96a9a2550e3f5ccf3223a73a2aa05e2/EI/zimmermann_jens_gross.jpg",
+          "state": "Hessen",
+          "name": "Zimmermann, Dr. Jens",
+          "party": "SPD",
+          "vote": "ja"
+        },
+        {
+          "id": "259306",
+          "URL": "https://www.bundestag.de/redirect/259306",
+          "imgURL": "https://www.bundestag.de/resource/image/242836/3x4/170/227/a36517310debe71958ce70feeb0a05f0/UN/zimmermann_pia_gross.jpg",
+          "state": "Niedersachsen",
+          "name": "Zimmermann, Pia",
+          "party": "Die Linke",
+          "vote": "ja"
+        },
+        {
+          "id": "259228",
+          "URL": "https://www.bundestag.de/redirect/259228",
+          "imgURL": "https://www.bundestag.de/resource/image/241822/3x4/170/227/c862b011f3f3c2e78dfdb207ec9b3d5f/Cx/zimmermann_sabine_gross.jpg",
+          "state": "Sachsen",
+          "name": "Zimmermann, Sabine",
+          "party": "Die Linke",
+          "vote": "ja"
+        },
+        {
+          "id": "259232",
+          "URL": "https://www.bundestag.de/redirect/259232",
+          "imgURL": "https://www.bundestag.de/resource/image/241826/3x4/170/227/d167408cf8eefffa56d6f9977fdc2ac1/ml/zoellmer_manfred_helmut_gross.jpg",
+          "state": "Nordrhein-Westfalen",
+          "name": "Zöllmer, Manfred",
+          "party": "SPD",
+          "vote": "ja"
+        },
+        {
+          "id": "259220",
+          "URL": "https://www.bundestag.de/redirect/259220",
+          "imgURL": "https://www.bundestag.de/resource/image/241816/3x4/170/227/c84182788da7ba501a58a64d15bbb278/dT/zollner_gudrun_gross.jpg",
+          "state": "Bayern",
+          "name": "Zollner, Gudrun",
+          "party": "CDU/CSU",
+          "vote": "ja"
+        },
+        {
+          "id": "259230",
+          "URL": "https://www.bundestag.de/redirect/259230",
+          "imgURL": "https://www.bundestag.de/resource/image/241818/3x4/170/227/e17aa76d6318768780e9006d9b90b474/cB/zypries_brigitte_gross.jpg",
+          "state": "Hessen",
+          "name": "Zypries, Brigitte",
+          "party": "SPD",
+          "vote": "ja"
         }
       ]
     }
