@@ -7,10 +7,10 @@
     "votes": {
       "all": {
         "total": 708,
-        "yes": 370,
+        "yes": 371,
         "no": 270,
         "abstain": 0,
-        "na": 68
+        "na": 67
       },
       "deputies": [
         {
@@ -4862,7 +4862,7 @@
           "state": "Bayern",
           "name": "Schieder, Marianne",
           "party": "SPD",
-          "vote": "na"
+          "vote": "ja"
         },
         {
           "id": "523250",
