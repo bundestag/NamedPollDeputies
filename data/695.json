@@ -1,16 +1,16 @@
 {
   "meta": {
-    "url": "https://www.bundestag.de/apps/na/na/namensliste.form?id=693"
+    "url": "https://www.bundestag.de/apps/na/na/namensliste.form?id=695"
   },
   "data": {
-    "id": "693",
+    "id": "695",
     "votes": {
       "all": {
         "total": 708,
-        "yes": 430,
-        "no": 209,
-        "abstain": 6,
-        "na": 63
+        "yes": 519,
+        "no": 75,
+        "abstain": 0,
+        "na": 114
       },
       "deputies": [
         {
@@ -29,7 +29,7 @@
           "state": "Bremen",
           "name": "Achelwilm, Doris",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "517836",
@@ -47,7 +47,7 @@
           "state": "Baden-Württemberg",
           "name": "Akbulut, Gökay",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "517864",
@@ -128,7 +128,7 @@
           "state": "Schleswig-Holstein",
           "name": "Aschenberg-Dugnus, Christine",
           "party": "FDP",
-          "vote": "ja"
+          "vote": "nein"
         },
         {
           "id": "518012",
@@ -164,7 +164,7 @@
           "state": "Bayern",
           "name": "Badum, Lisa",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "518086",
@@ -182,7 +182,7 @@
           "state": "Brandenburg",
           "name": "Baerbock, Annalena",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "518112",
@@ -191,7 +191,7 @@
           "state": "Bayern",
           "name": "Bahr, Ulrike",
           "party": "SPD",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "518098",
@@ -236,7 +236,7 @@
           "state": "Bayern",
           "name": "Barrientos, Simone",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "518156",
@@ -272,7 +272,7 @@
           "state": "Mecklenburg-Vorpommern",
           "name": "Bartsch, Dr. Dietmar",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "518186",
@@ -308,7 +308,7 @@
           "state": "Bayern",
           "name": "Bause, Margarete",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "518234",
@@ -317,7 +317,7 @@
           "state": "Baden-Württemberg",
           "name": "Bayaz, Dr. Danyal",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "518240",
@@ -326,7 +326,7 @@
           "state": "Berlin",
           "name": "Bayram, Canan",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "518256",
@@ -353,7 +353,7 @@
           "state": "Sachsen-Anhalt",
           "name": "Behrens, Manfred",
           "party": "CDU/CSU",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "518290",
@@ -362,7 +362,7 @@
           "state": "Sachsen",
           "name": "Bellmann, Veronika",
           "party": "CDU/CSU",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "518308",
@@ -461,7 +461,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Birkwald, Matthias W.",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "518460",
@@ -488,7 +488,7 @@
           "state": "Mecklenburg-Vorpommern",
           "name": "Bluhm-Förster, Heidrun",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "na"
         },
         {
           "id": "518516",
@@ -560,7 +560,7 @@
           "state": "Baden-Württemberg",
           "name": "Brandt, Michel",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "518622",
@@ -569,7 +569,7 @@
           "state": "Baden-Württemberg",
           "name": "Brantner, Dr. Franziska",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "518636",
@@ -659,7 +659,7 @@
           "state": "Baden-Württemberg",
           "name": "Brugger, Agnieszka",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "518734",
@@ -686,7 +686,7 @@
           "state": "Hessen",
           "name": "Buchholz, Christine",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "518760",
@@ -713,7 +713,7 @@
           "state": "Sachsen-Anhalt",
           "name": "Bull-Bischoff, Dr. Birke",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "518782",
@@ -722,7 +722,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Bülow, Marco",
           "party": "fraktionslos",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "518832",
@@ -749,7 +749,7 @@
           "state": "Sachsen-Anhalt",
           "name": "Büttner, Matthias",
           "party": "AfD",
-          "vote": "na"
+          "vote": "nein"
         },
         {
           "id": "518846",
@@ -776,7 +776,7 @@
           "state": "Hessen",
           "name": "Cezanne, Jörg",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "518880",
@@ -785,7 +785,7 @@
           "state": "Baden-Württemberg",
           "name": "Christmann, Dr. Anna",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "518884",
@@ -839,7 +839,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Dagdelen, Sevim",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "518964",
@@ -875,7 +875,7 @@
           "state": "Hamburg",
           "name": "De Masi, Fabio",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "522918",
@@ -893,7 +893,7 @@
           "state": "Niedersachsen",
           "name": "Dehm, Dr. Diether",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "518994",
@@ -902,7 +902,7 @@
           "state": "Bayern",
           "name": "Deligöz, Ekin",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "519016",
@@ -956,7 +956,7 @@
           "state": "Brandenburg",
           "name": "Domscheit-Berg, Anke",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "519112",
@@ -1001,7 +1001,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Dröge, Katharina",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "na"
         },
         {
           "id": "519160",
@@ -1037,7 +1037,7 @@
           "state": "Baden-Württemberg",
           "name": "Ebner, Harald",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "519228",
@@ -1073,7 +1073,7 @@
           "state": "Bayern",
           "name": "Ernst, Klaus",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "519320",
@@ -1082,7 +1082,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Esdar, Dr. Wiebke",
           "party": "SPD",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "519324",
@@ -1145,7 +1145,7 @@
           "state": "Brandenburg",
           "name": "Feiler, Uwe",
           "party": "CDU/CSU",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "519406",
@@ -1154,7 +1154,7 @@
           "state": "Berlin",
           "name": "Felgentreu, Dr. Fritz",
           "party": "SPD",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "519410",
@@ -1181,7 +1181,7 @@
           "state": "Bayern",
           "name": "Ferschl, Susanne",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "519454",
@@ -1190,7 +1190,7 @@
           "state": "Baden-Württemberg",
           "name": "Fischer, Axel E.",
           "party": "CDU/CSU",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "519466",
@@ -1208,7 +1208,7 @@
           "state": "Bayern",
           "name": "Föst, Daniel",
           "party": "FDP",
-          "vote": "na"
+          "vote": "ja"
         },
         {
           "id": "519500",
@@ -1244,7 +1244,7 @@
           "state": "Rheinland-Pfalz",
           "name": "Freihold, Brigitte",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "519528",
@@ -1253,7 +1253,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Freitag, Dagmar",
           "party": "SPD",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "519542",
@@ -1352,7 +1352,7 @@
           "state": "Baden-Württemberg",
           "name": "Gastel, Matthias",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "519654",
@@ -1379,7 +1379,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Gehring, Kai",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "519684",
@@ -1397,7 +1397,7 @@
           "state": "Berlin",
           "name": "Gelbhaar, Stefan",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "519708",
@@ -1478,7 +1478,7 @@
           "state": "Bayern",
           "name": "Gohlke, Nicole",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "519782",
@@ -1487,7 +1487,7 @@
           "state": "Thüringen",
           "name": "Göring-Eckardt, Katrin",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "na"
         },
         {
           "id": "519822",
@@ -1586,7 +1586,7 @@
           "state": "Bayern",
           "name": "Grötsch, Uli",
           "party": "SPD",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "519922",
@@ -1613,7 +1613,7 @@
           "state": "Bayern",
           "name": "Grundl, Erhard",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "519940",
@@ -1649,7 +1649,7 @@
           "state": "Baden-Württemberg",
           "name": "Gutting, Olav",
           "party": "CDU/CSU",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "519984",
@@ -1658,7 +1658,7 @@
           "state": "Berlin",
           "name": "Gysi, Dr. Gregor",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "519998",
@@ -1712,7 +1712,7 @@
           "state": "Sachsen",
           "name": "Hahn, Dr. André",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "520052",
@@ -1721,7 +1721,7 @@
           "state": "Hamburg",
           "name": "Hajduk, Anja",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "520058",
@@ -1748,7 +1748,7 @@
           "state": "Thüringen",
           "name": "Hanke, Reginald",
           "party": "FDP",
-          "vote": "enthalten"
+          "vote": "ja"
         },
         {
           "id": "520020",
@@ -1757,7 +1757,7 @@
           "state": "Baden-Württemberg",
           "name": "Hänsel, Heike",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "520106",
@@ -1784,7 +1784,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Hartmann, Sebastian",
           "party": "SPD",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "520120",
@@ -1811,7 +1811,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Haßelmann, Britta",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "520142",
@@ -1856,7 +1856,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Heidenblut, Dirk",
           "party": "SPD",
-          "vote": "nein"
+          "vote": "na"
         },
         {
           "id": "520192",
@@ -1874,7 +1874,7 @@
           "state": "Hessen",
           "name": "Heidt, Peter",
           "party": "FDP",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "520216",
@@ -1928,7 +1928,7 @@
           "state": "Rheinland-Pfalz",
           "name": "Held, Marcus",
           "party": "SPD",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "520256",
@@ -2018,7 +2018,7 @@
           "state": "Sachsen",
           "name": "Herbst, Torsten",
           "party": "FDP",
-          "vote": "enthalten"
+          "vote": "ja"
         },
         {
           "id": "520322",
@@ -2045,7 +2045,7 @@
           "state": "Rheinland-Pfalz",
           "name": "Herzog, Gustav",
           "party": "SPD",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "520348",
@@ -2072,7 +2072,7 @@
           "state": "Bayern",
           "name": "Hessel, Katja",
           "party": "FDP",
-          "vote": "na"
+          "vote": "ja"
         },
         {
           "id": "520360",
@@ -2126,7 +2126,7 @@
           "state": "Rheinland-Pfalz",
           "name": "Hitschler, Thomas",
           "party": "SPD",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "520412",
@@ -2153,7 +2153,7 @@
           "state": "Rheinland-Pfalz",
           "name": "Höferlin, Manuel",
           "party": "FDP",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "520440",
@@ -2180,7 +2180,7 @@
           "state": "Hessen",
           "name": "Hoffmann, Dr. Bettina",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "520476",
@@ -2189,7 +2189,7 @@
           "state": "Bayern",
           "name": "Hofreiter, Dr. Anton",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "520486",
@@ -2207,7 +2207,7 @@
           "state": "Sachsen-Anhalt",
           "name": "Höhn, Matthias",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "520490",
@@ -2243,7 +2243,7 @@
           "state": "Niedersachsen",
           "name": "Holtz, Ottmar von",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "520516",
@@ -2279,7 +2279,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Hunko, Andrej",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "na"
         },
         {
           "id": "520606",
@@ -2333,7 +2333,7 @@
           "state": "Bayern",
           "name": "Janecek, Dieter",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "na"
         },
         {
           "id": "520684",
@@ -2351,7 +2351,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Jelpke, Ulla",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "520698",
@@ -2459,7 +2459,7 @@
           "state": "Bremen",
           "name": "Kappert-Gonther, Dr. Kirsten",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "520834",
@@ -2468,7 +2468,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Kapschack, Ralf",
           "party": "SPD",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "520854",
@@ -2504,7 +2504,7 @@
           "state": "Mecklenburg-Vorpommern",
           "name": "Kassner, Kerstin",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "520884",
@@ -2540,7 +2540,7 @@
           "state": "Bayern",
           "name": "Kekeritz, Uwe",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "520934",
@@ -2558,7 +2558,7 @@
           "state": "Hessen",
           "name": "Kessler, Dr. Achim",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "520974",
@@ -2576,7 +2576,7 @@
           "state": "Niedersachsen",
           "name": "Keul, Katja",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "na"
         },
         {
           "id": "520980",
@@ -2612,7 +2612,7 @@
           "state": "Niedersachsen",
           "name": "Kindler, Sven-Christian",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "521008",
@@ -2630,7 +2630,7 @@
           "state": "Sachsen",
           "name": "Kipping, Katja",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "521022",
@@ -2639,7 +2639,7 @@
           "state": "Berlin",
           "name": "Kiziltepe, Cansel",
           "party": "SPD",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "521034",
@@ -2657,7 +2657,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Klein, Volkmar",
           "party": "CDU/CSU",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "521060",
@@ -2675,7 +2675,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Klein-Schmeink, Maria",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "521050",
@@ -2729,7 +2729,7 @@
           "state": "Baden-Württemberg",
           "name": "Kober, Pascal",
           "party": "FDP",
-          "vote": "na"
+          "vote": "ja"
         },
         {
           "id": "521170",
@@ -2792,7 +2792,7 @@
           "state": "Rheinland-Pfalz",
           "name": "Konrad, Carina",
           "party": "FDP",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "521224",
@@ -2819,7 +2819,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Korkmaz-Emre, Elvan",
           "party": "SPD",
-          "vote": "enthalten"
+          "vote": "ja"
         },
         {
           "id": "521242",
@@ -2828,7 +2828,7 @@
           "state": "Sachsen-Anhalt",
           "name": "Korte, Jan",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "521250",
@@ -2837,7 +2837,7 @@
           "state": "Brandenburg",
           "name": "Kotré, Steffen",
           "party": "AfD",
-          "vote": "na"
+          "vote": "nein"
         },
         {
           "id": "521256",
@@ -2846,7 +2846,7 @@
           "state": "Baden-Württemberg",
           "name": "Kotting-Uhl, Sylvia",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "521270",
@@ -2882,7 +2882,7 @@
           "state": "Niedersachsen",
           "name": "Krellmann, Jutta",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "521310",
@@ -2909,7 +2909,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Krischer, Oliver",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "521358",
@@ -2954,7 +2954,7 @@
           "state": "Baden-Württemberg",
           "name": "Kühn, Christian",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "521378",
@@ -2981,7 +2981,7 @@
           "state": "Berlin",
           "name": "Künast, Renate",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "521422",
@@ -2990,7 +2990,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Kurth, Markus",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "521460",
@@ -3080,7 +3080,7 @@
           "state": "Sachsen",
           "name": "Lay, Caren",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "521516",
@@ -3089,7 +3089,7 @@
           "state": "Sachsen",
           "name": "Lazar, Monika",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "521524",
@@ -3125,7 +3125,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Lehmann, Sven",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "521542",
@@ -3161,7 +3161,7 @@
           "state": "Sachsen-Anhalt",
           "name": "Lemke, Steffi",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "521572",
@@ -3170,7 +3170,7 @@
           "state": "Thüringen",
           "name": "Lenkert, Ralph",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "na"
         },
         {
           "id": "521576",
@@ -3188,7 +3188,7 @@
           "state": "Sachsen",
           "name": "Leutert, Michael",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "na"
         },
         {
           "id": "521608",
@@ -3206,7 +3206,7 @@
           "state": "Berlin",
           "name": "Liebich, Stefan",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "521638",
@@ -3242,7 +3242,7 @@
           "state": "Rheinland-Pfalz",
           "name": "Lindner, Dr. Tobias",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "521650",
@@ -3251,7 +3251,7 @@
           "state": "Baden-Württemberg",
           "name": "Link, Michael Georg",
           "party": "FDP",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "521654",
@@ -3296,7 +3296,7 @@
           "state": "Berlin",
           "name": "Lötzsch, Dr. Gesine",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "521724",
@@ -3305,7 +3305,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Lucassen, Rüdiger",
           "party": "AfD",
-          "vote": "nein"
+          "vote": "na"
         },
         {
           "id": "521730",
@@ -3314,7 +3314,7 @@
           "state": "Berlin",
           "name": "Luczak, Dr. Jan-Marco",
           "party": "CDU/CSU",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "521736",
@@ -3323,7 +3323,7 @@
           "state": "Bayern",
           "name": "Ludwig, Daniela",
           "party": "CDU/CSU",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "521740",
@@ -3359,7 +3359,7 @@
           "state": "Saarland",
           "name": "Lutze, Thomas",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "521780",
@@ -3407,20 +3407,20 @@
           "vote": "ja"
         },
         {
-          "id": "521812",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/521812-521812",
-          "imgURL": "https://www.bundestag.de/resource/image/525922/3x4/170/227/5dfb929ea6719266f9a75786bbb5b612/PC/maier_lothar_gross.jpg",
-          "state": "Baden-Württemberg",
-          "name": "Maier, Prof. Dr. Lothar",
-          "party": "AfD",
-          "vote": "nein"
-        },
-        {
           "id": "521808",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/M/521808-521808",
           "imgURL": "https://www.bundestag.de/resource/image/526754/3x4/170/227/dbdf8f231028b0e61e0fe191b834d171/pm/maier_jens_gross.png",
           "state": "Sachsen",
           "name": "Maier, Jens",
+          "party": "AfD",
+          "vote": "nein"
+        },
+        {
+          "id": "521812",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/521812-521812",
+          "imgURL": "https://www.bundestag.de/resource/image/525922/3x4/170/227/5dfb929ea6719266f9a75786bbb5b612/PC/maier_lothar_gross.jpg",
+          "state": "Baden-Württemberg",
+          "name": "Maier, Prof. Dr. Lothar",
           "party": "AfD",
           "vote": "nein"
         },
@@ -3521,7 +3521,7 @@
           "state": "Baden-Württemberg",
           "name": "Mast, Katja",
           "party": "SPD",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "521892",
@@ -3548,7 +3548,7 @@
           "state": "Baden-Württemberg",
           "name": "Mattheis, Hilde",
           "party": "SPD",
-          "vote": "nein"
+          "vote": "na"
         },
         {
           "id": "521916",
@@ -3566,7 +3566,7 @@
           "state": "Berlin",
           "name": "Meiser, Pascal",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "521950",
@@ -3656,7 +3656,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Mihalic, Dr. Irene",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "522046",
@@ -3683,7 +3683,7 @@
           "state": "Niedersachsen",
           "name": "Mohamed Ali, Amira",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "522070",
@@ -3692,7 +3692,7 @@
           "state": "Schleswig-Holstein",
           "name": "Möhring, Cornelia",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "na"
         },
         {
           "id": "522094",
@@ -3755,7 +3755,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Movassat, Niema",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "522140",
@@ -3839,22 +3839,22 @@
           "vote": "na"
         },
         {
-          "id": "522202",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/522202-522202",
-          "imgURL": "https://www.bundestag.de/resource/image/522200/3x4/170/227/d0a46a9c80c50d8286fbc61af8816f0b/pP/mueller_norbert_gross.jpg",
-          "state": "Brandenburg",
-          "name": "Müller, Norbert",
-          "party": "Die Linke",
-          "vote": "nein"
-        },
-        {
           "id": "522152",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/M/522152-522152",
           "imgURL": "https://www.bundestag.de/resource/image/522150/3x4/170/227/6d766d980d934ec1cacb23a0637968ea/Oy/mueller_alexander_gross.jpg",
           "state": "Hessen",
           "name": "Müller, Alexander",
           "party": "FDP",
-          "vote": "enthalten"
+          "vote": "ja"
+        },
+        {
+          "id": "522202",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/522202-522202",
+          "imgURL": "https://www.bundestag.de/resource/image/522200/3x4/170/227/d0a46a9c80c50d8286fbc61af8816f0b/pP/mueller_norbert_gross.jpg",
+          "state": "Brandenburg",
+          "name": "Müller, Norbert",
+          "party": "Die Linke",
+          "vote": "ja"
         },
         {
           "id": "522168",
@@ -3863,7 +3863,7 @@
           "state": "Mecklenburg-Vorpommern",
           "name": "Müller, Claudia",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "522162",
@@ -3881,7 +3881,7 @@
           "state": "Baden-Württemberg",
           "name": "Müller-Gemmeke, Beate",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "522208",
@@ -3890,7 +3890,7 @@
           "state": "Sachsen",
           "name": "Müller-Rosentritt, Frank",
           "party": "FDP",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "522228",
@@ -3935,7 +3935,7 @@
           "state": "Hamburg",
           "name": "Nastic, Zaklin",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "522290",
@@ -3944,7 +3944,7 @@
           "state": "Schleswig-Holstein",
           "name": "Nestle, Dr. Ingrid",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "522326",
@@ -3953,15 +3953,6 @@
           "state": "Nordrhein-Westfalen",
           "name": "Neu, Dr. Alexander S.",
           "party": "Die Linke",
-          "vote": "nein"
-        },
-        {
-          "id": "522314",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/N/522314-522314",
-          "imgURL": "https://www.bundestag.de/resource/image/526758/3x4/170/227/8b51a93af8e608e8b442f925420e595c/Wr/neumann_martin_gross.jpg",
-          "state": "Brandenburg",
-          "name": "Neumann, Prof. Dr. Martin",
-          "party": "FDP",
           "vote": "ja"
         },
         {
@@ -3971,7 +3962,16 @@
           "state": "Sachsen",
           "name": "Neumann, Christoph",
           "party": "AfD",
-          "vote": "nein"
+          "vote": "na"
+        },
+        {
+          "id": "522314",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/N/522314-522314",
+          "imgURL": "https://www.bundestag.de/resource/image/526758/3x4/170/227/8b51a93af8e608e8b442f925420e595c/Wr/neumann_martin_gross.jpg",
+          "state": "Brandenburg",
+          "name": "Neumann, Prof. Dr. Martin",
+          "party": "FDP",
+          "vote": "ja"
         },
         {
           "id": "522336",
@@ -4052,7 +4052,7 @@
           "state": "Schleswig-Holstein",
           "name": "Notz, Dr. Konstantin von",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "522404",
@@ -4061,7 +4061,7 @@
           "state": "Hessen",
           "name": "Nouripour, Omid",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "522420",
@@ -4115,7 +4115,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Ostendorff, Friedrich",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "522496",
@@ -4160,7 +4160,7 @@
           "state": "Baden-Württemberg",
           "name": "Özdemir, Cem",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "522462",
@@ -4196,7 +4196,7 @@
           "state": "Niedersachsen",
           "name": "Paschke, Markus",
           "party": "SPD",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "522548",
@@ -4232,7 +4232,7 @@
           "state": "Berlin",
           "name": "Paus, Lisa",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "522580",
@@ -4241,7 +4241,7 @@
           "state": "Sachsen",
           "name": "Pellmann, Sören",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "522586",
@@ -4250,7 +4250,7 @@
           "state": "Niedersachsen",
           "name": "Perli, Victor",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "522594",
@@ -4295,7 +4295,7 @@
           "state": "Baden-Württemberg",
           "name": "Pflüger, Tobias",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "522650",
@@ -4331,7 +4331,7 @@
           "state": "Bayern",
           "name": "Podolay, Paul Viktor",
           "party": "AfD",
-          "vote": "nein"
+          "vote": "na"
         },
         {
           "id": "522674",
@@ -4370,20 +4370,20 @@
           "vote": "ja"
         },
         {
-          "id": "522694",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/P/post_achim-522694",
-          "imgURL": "https://www.bundestag.de/resource/image/522692/3x4/170/227/550f4c8dcc518ba2bd1724f25e36112f/pp/post_achim_gross.jpg",
-          "state": "Nordrhein-Westfalen",
-          "name": "Post, Achim",
-          "party": "SPD",
-          "vote": "ja"
-        },
-        {
           "id": "522698",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/P/post_florian-522698",
           "imgURL": "https://www.bundestag.de/resource/image/522696/3x4/170/227/bd2bdc263af1397b99c91da470f5cc2d/zY/post_florian_gross.jpg",
           "state": "Bayern",
           "name": "Post, Florian",
+          "party": "SPD",
+          "vote": "ja"
+        },
+        {
+          "id": "522694",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/P/post_achim-522694",
+          "imgURL": "https://www.bundestag.de/resource/image/522692/3x4/170/227/550f4c8dcc518ba2bd1724f25e36112f/pp/post_achim_gross.jpg",
+          "state": "Nordrhein-Westfalen",
+          "name": "Post, Achim",
           "party": "SPD",
           "vote": "ja"
         },
@@ -4412,7 +4412,7 @@
           "state": "Hessen",
           "name": "Raabe, Dr. Sascha",
           "party": "SPD",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "522760",
@@ -4514,15 +4514,6 @@
           "vote": "na"
         },
         {
-          "id": "522884",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/R/renner_martina-522884",
-          "imgURL": "https://www.bundestag.de/resource/image/522882/3x4/170/227/9ab3395026da99eab1f4748011e1a450/Xi/renner_martina_gross.jpg",
-          "state": "Thüringen",
-          "name": "Renner, Martina",
-          "party": "Die Linke",
-          "vote": "nein"
-        },
-        {
           "id": "522880",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/R/522880-522880",
           "imgURL": "https://www.bundestag.de/resource/image/527196/3x4/170/227/c3565b73d45f10f6574daeb8fa0979af/Gy/renner_martin_gross.png",
@@ -4530,6 +4521,15 @@
           "name": "Renner, Martin Erwin",
           "party": "AfD",
           "vote": "na"
+        },
+        {
+          "id": "522884",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/R/renner_martina-522884",
+          "imgURL": "https://www.bundestag.de/resource/image/522882/3x4/170/227/9ab3395026da99eab1f4748011e1a450/Xi/renner_martina_gross.jpg",
+          "state": "Thüringen",
+          "name": "Renner, Martina",
+          "party": "Die Linke",
+          "vote": "ja"
         },
         {
           "id": "522898",
@@ -4547,7 +4547,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Reuther, Bernd",
           "party": "FDP",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "522922",
@@ -4574,7 +4574,7 @@
           "state": "Baden-Württemberg",
           "name": "Riexinger, Bernd",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "522944",
@@ -4583,7 +4583,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Rimkus, Andreas",
           "party": "SPD",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "522962",
@@ -4628,7 +4628,7 @@
           "state": "Rheinland-Pfalz",
           "name": "Rößner, Tabea",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "522992",
@@ -4637,7 +4637,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Röspel, René",
           "party": "SPD",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "523026",
@@ -4664,7 +4664,7 @@
           "state": "Bayern",
           "name": "Roth, Claudia",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "na"
         },
         {
           "id": "523000",
@@ -4682,7 +4682,7 @@
           "state": "Bayern",
           "name": "Rottmann, Dr. Manuela",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "523048",
@@ -4709,7 +4709,7 @@
           "state": "Rheinland-Pfalz",
           "name": "Rüffer, Corinna",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "523090",
@@ -4718,7 +4718,7 @@
           "state": "Bayern",
           "name": "Rupprecht, Albert",
           "party": "CDU/CSU",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "523072",
@@ -4763,7 +4763,7 @@
           "state": "Hamburg",
           "name": "Sarrazin, Manuel",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "523134",
@@ -4772,7 +4772,7 @@
           "state": "Bayern",
           "name": "Sattelberger, Dr. h. c. Thomas",
           "party": "FDP",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "523140",
@@ -4790,7 +4790,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Sauter, Christian",
           "party": "FDP",
-          "vote": "enthalten"
+          "vote": "ja"
         },
         {
           "id": "523162",
@@ -4835,7 +4835,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Schauws, Ulle",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "523200",
@@ -4844,7 +4844,7 @@
           "state": "Schleswig-Holstein",
           "name": "Scheer, Dr. Nina",
           "party": "SPD",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "523234",
@@ -4853,7 +4853,7 @@
           "state": "Bayern",
           "name": "Scheuer, Andreas",
           "party": "CDU/CSU",
-          "vote": "na"
+          "vote": "ja"
         },
         {
           "id": "523244",
@@ -4871,7 +4871,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Schiefner, Udo",
           "party": "SPD",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "523252",
@@ -4898,7 +4898,7 @@
           "state": "Hamburg",
           "name": "Schinnenburg, Dr. Wieland",
           "party": "FDP",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "523278",
@@ -4961,7 +4961,7 @@
           "state": "Hessen",
           "name": "Schmidt, Dagmar",
           "party": "SPD",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "523340",
@@ -4970,7 +4970,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Schmidt, Dr. Frithjof",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "523368",
@@ -4979,7 +4979,7 @@
           "state": "Bayern",
           "name": "Schmidt, Stefan",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "523318",
@@ -5015,7 +5015,7 @@
           "state": "Baden-Württemberg",
           "name": "Schneidewind-Hartnagel, Charlotte",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "na"
         },
         {
           "id": "523412",
@@ -5051,7 +5051,7 @@
           "state": "Bayern",
           "name": "Schreiber, Eva-Maria",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "523462",
@@ -5060,7 +5060,7 @@
           "state": "Baden-Württemberg",
           "name": "Schreiner, Felix",
           "party": "CDU/CSU",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "523468",
@@ -5069,7 +5069,7 @@
           "state": "Bayern",
           "name": "Schrodi, Michael",
           "party": "SPD",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "523508",
@@ -5078,7 +5078,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Schulte, Ursula",
           "party": "SPD",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "523528",
@@ -5096,7 +5096,7 @@
           "state": "Berlin",
           "name": "Schulz, Swen",
           "party": "SPD",
-          "vote": "enthalten"
+          "vote": "ja"
         },
         {
           "id": "523538",
@@ -5105,7 +5105,7 @@
           "state": "Hessen",
           "name": "Schulz, Uwe",
           "party": "AfD",
-          "vote": "nein"
+          "vote": "na"
         },
         {
           "id": "523514",
@@ -5114,7 +5114,7 @@
           "state": "Hessen",
           "name": "Schulz-Asche, Kordula",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "523520",
@@ -5195,7 +5195,7 @@
           "state": "Niedersachsen",
           "name": "Seestern-Pauly, Matthias",
           "party": "FDP",
-          "vote": "ja"
+          "vote": "nein"
         },
         {
           "id": "523638",
@@ -5294,7 +5294,7 @@
           "state": "Sachsen-Anhalt",
           "name": "Sitte, Dr. Petra",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "523710",
@@ -5321,7 +5321,7 @@
           "state": "Berlin",
           "name": "Sommer, Helin Evrim",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "523744",
@@ -5411,7 +5411,7 @@
           "state": "Hessen",
           "name": "Stark-Watzinger, Bettina",
           "party": "FDP",
-          "vote": "na"
+          "vote": "ja"
         },
         {
           "id": "523820",
@@ -5474,7 +5474,7 @@
           "state": "Schleswig-Holstein",
           "name": "Stein, Mathias",
           "party": "SPD",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "523848",
@@ -5492,7 +5492,7 @@
           "state": "Rheinland-Pfalz",
           "name": "Steiniger, Johannes",
           "party": "CDU/CSU",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "523864",
@@ -5501,7 +5501,7 @@
           "state": "Thüringen",
           "name": "Steinke, Kersten",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "na"
         },
         {
           "id": "523882",
@@ -5564,7 +5564,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Straetmanns, Friedrich",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "523936",
@@ -5591,7 +5591,7 @@
           "state": "Hessen",
           "name": "Strengmann-Kuhn, Dr. Wolfgang",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "523948",
@@ -5600,7 +5600,7 @@
           "state": "Mecklenburg-Vorpommern",
           "name": "Strenz, Karin",
           "party": "CDU/CSU",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "523974",
@@ -5609,7 +5609,7 @@
           "state": "Baden-Württemberg",
           "name": "Stumpp, Margit",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "523980",
@@ -5636,7 +5636,7 @@
           "state": "Brandenburg",
           "name": "Tackmann, Dr. Kirsten",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "524028",
@@ -5645,7 +5645,7 @@
           "state": "Baden-Württemberg",
           "name": "Tatti, Jessica",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "524032",
@@ -5654,7 +5654,7 @@
           "state": "Hessen",
           "name": "Tauber, Dr. Peter",
           "party": "CDU/CSU",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "524036",
@@ -5663,7 +5663,7 @@
           "state": "Bayern",
           "name": "Tausend, Claudia",
           "party": "SPD",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "524040",
@@ -5789,7 +5789,7 @@
           "state": "Saarland",
           "name": "Tressel, Markus",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "524164",
@@ -5843,7 +5843,7 @@
           "state": "Rheinland-Pfalz",
           "name": "Ulrich, Alexander",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "524242",
@@ -5861,7 +5861,7 @@
           "state": "Niedersachsen",
           "name": "Verlinden, Dr. Julia",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "524262",
@@ -5888,7 +5888,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Vogel, Johannes",
           "party": "FDP",
-          "vote": "na"
+          "vote": "ja"
         },
         {
           "id": "524288",
@@ -5897,7 +5897,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Vogler, Kathrin",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "524294",
@@ -5969,7 +5969,7 @@
           "state": "Bayern",
           "name": "Wagner, Andreas",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "524354",
@@ -5978,7 +5978,7 @@
           "state": "Hessen",
           "name": "Wagner, Daniela",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "524392",
@@ -6014,7 +6014,7 @@
           "state": "Rheinland-Pfalz",
           "name": "Weber, Gabi",
           "party": "SPD",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "524458",
@@ -6041,7 +6041,7 @@
           "state": "Baden-Württemberg",
           "name": "Weidel, Dr. Alice",
           "party": "AfD",
-          "vote": "nein"
+          "vote": "na"
         },
         {
           "id": "524480",
@@ -6068,7 +6068,7 @@
           "state": "Bayern",
           "name": "Weinberg, Harald",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "524492",
@@ -6113,7 +6113,7 @@
           "state": "Baden-Württemberg",
           "name": "Wellenreuther, Ingo",
           "party": "CDU/CSU",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "524538",
@@ -6131,7 +6131,7 @@
           "state": "Rheinland-Pfalz",
           "name": "Werner, Katrin",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "524556",
@@ -6158,7 +6158,7 @@
           "state": "Sachsen",
           "name": "Wetzel, Wolfgang",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "524572",
@@ -6275,7 +6275,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Wittke, Oliver",
           "party": "CDU/CSU",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "524724",
@@ -6320,7 +6320,7 @@
           "state": "Baden-Württemberg",
           "name": "Zickenheiner, Gerhard",
           "party": "B90/Grüne",
-          "vote": "nein"
+          "vote": "ja"
         },
         {
           "id": "524770",
@@ -6359,6 +6359,15 @@
           "vote": "ja"
         },
         {
+          "id": "524794",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/Z/zimmermann_jens-524794",
+          "imgURL": "https://www.bundestag.de/resource/image/524792/3x4/170/227/7a14094953ada7cb0fd10d78852d6ba1/nd/zimmermann_jens_gross.jpg",
+          "state": "Hessen",
+          "name": "Zimmermann, Dr. Jens",
+          "party": "SPD",
+          "vote": "ja"
+        },
+        {
           "id": "524798",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/Z/zimmermann_pia-524798",
           "imgURL": "https://www.bundestag.de/resource/image/524796/3x4/170/227/a36517310debe71958ce70feeb0a05f0/Rx/zimmermann_pia_gross.jpg",
@@ -6374,16 +6383,7 @@
           "state": "Sachsen",
           "name": "Zimmermann, Sabine",
           "party": "Die Linke",
-          "vote": "nein"
-        },
-        {
-          "id": "524794",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/Z/zimmermann_jens-524794",
-          "imgURL": "https://www.bundestag.de/resource/image/524792/3x4/170/227/7a14094953ada7cb0fd10d78852d6ba1/nd/zimmermann_jens_gross.jpg",
-          "state": "Hessen",
-          "name": "Zimmermann, Dr. Jens",
-          "party": "SPD",
-          "vote": "ja"
+          "vote": "na"
         }
       ]
     }
