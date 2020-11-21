@@ -1697,15 +1697,6 @@
           "vote": "na"
         },
         {
-          "id": "520046",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/H/hahn_florian-520046",
-          "imgURL": "https://www.bundestag.de/resource/image/520044/3x4/170/227/5c44c823156e6b3d5063768b84d5dfb9/Wm/hahn_florian_gross.jpg",
-          "state": "Bayern",
-          "name": "Hahn, Florian",
-          "party": "CDU/CSU",
-          "vote": "ja"
-        },
-        {
           "id": "520042",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/H/hahn_andre-520042",
           "imgURL": "https://www.bundestag.de/resource/image/520040/3x4/170/227/120e4bf0b63bb0232a216a91e056878f/Xq/hahn_andre_gross.jpg",
@@ -1713,6 +1704,15 @@
           "name": "Hahn, Dr. André",
           "party": "Die Linke",
           "vote": "enthalten"
+        },
+        {
+          "id": "520046",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/H/hahn_florian-520046",
+          "imgURL": "https://www.bundestag.de/resource/image/520044/3x4/170/227/5c44c823156e6b3d5063768b84d5dfb9/Wm/hahn_florian_gross.jpg",
+          "state": "Bayern",
+          "name": "Hahn, Florian",
+          "party": "CDU/CSU",
+          "vote": "ja"
         },
         {
           "id": "520052",
@@ -2156,15 +2156,6 @@
           "vote": "enthalten"
         },
         {
-          "id": "520440",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/H/hoffmann_alexander-520440",
-          "imgURL": "https://www.bundestag.de/resource/image/520438/3x4/170/227/30e2cc4f715e5128f12fca5e21683eed/Mo/hoffmann_alexander_gross.jpg",
-          "state": "Bayern",
-          "name": "Hoffmann, Alexander",
-          "party": "CDU/CSU",
-          "vote": "ja"
-        },
-        {
           "id": "520450",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/H/520450-520450",
           "imgURL": "https://www.bundestag.de/resource/image/525370/3x4/170/227/7e2ba62931efcc66b46fdfc0b5391934/LH/hoffmann_christoph_gross.jpg",
@@ -2172,6 +2163,15 @@
           "name": "Hoffmann, Dr. Christoph",
           "party": "FDP",
           "vote": "enthalten"
+        },
+        {
+          "id": "520440",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/H/hoffmann_alexander-520440",
+          "imgURL": "https://www.bundestag.de/resource/image/520438/3x4/170/227/30e2cc4f715e5128f12fca5e21683eed/Mo/hoffmann_alexander_gross.jpg",
+          "state": "Bayern",
+          "name": "Hoffmann, Alexander",
+          "party": "CDU/CSU",
+          "vote": "ja"
         },
         {
           "id": "520448",
@@ -2351,7 +2351,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Jelpke, Ulla",
           "party": "Die Linke",
-          "vote": "na"
+          "vote": "nein"
         },
         {
           "id": "520698",
@@ -2372,6 +2372,15 @@
           "vote": "nein"
         },
         {
+          "id": "520744",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/J/520744-520744",
+          "imgURL": "https://www.bundestag.de/resource/image/527218/3x4/170/227/edf621a5663bffbe1b68499ba25dda16/Nn/jung_christian_gross.jpg",
+          "state": "Baden-Württemberg",
+          "name": "Jung, Dr. Christian",
+          "party": "FDP",
+          "vote": "enthalten"
+        },
+        {
           "id": "520742",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/J/jung_andreas-520742",
           "imgURL": "https://www.bundestag.de/resource/image/520738/3x4/170/227/2632f92b914f576353b7659f2d28d116/oh/jung_andreas_gross.jpg",
@@ -2388,15 +2397,6 @@
           "name": "Jung, Ingmar",
           "party": "CDU/CSU",
           "vote": "ja"
-        },
-        {
-          "id": "520744",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/J/520744-520744",
-          "imgURL": "https://www.bundestag.de/resource/image/527218/3x4/170/227/edf621a5663bffbe1b68499ba25dda16/Nn/jung_christian_gross.jpg",
-          "state": "Baden-Württemberg",
-          "name": "Jung, Dr. Christian",
-          "party": "FDP",
-          "vote": "enthalten"
         },
         {
           "id": "520734",
@@ -3188,7 +3188,7 @@
           "state": "Sachsen",
           "name": "Leutert, Michael",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "na"
         },
         {
           "id": "521608",
@@ -3767,6 +3767,33 @@
           "vote": "nein"
         },
         {
+          "id": "522152",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/522152-522152",
+          "imgURL": "https://www.bundestag.de/resource/image/522150/3x4/170/227/6d766d980d934ec1cacb23a0637968ea/Oy/mueller_alexander_gross.jpg",
+          "state": "Hessen",
+          "name": "Müller, Alexander",
+          "party": "FDP",
+          "vote": "enthalten"
+        },
+        {
+          "id": "522184",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/522184-522184",
+          "imgURL": "https://www.bundestag.de/resource/image/522182/3x4/170/227/bea897b5c7c494430889f89cd8c671ce/BR/mueller_hansjoerg_gross.jpg",
+          "state": "Bayern",
+          "name": "Müller, Hansjörg",
+          "party": "AfD",
+          "vote": "nein"
+        },
+        {
+          "id": "522202",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/522202-522202",
+          "imgURL": "https://www.bundestag.de/resource/image/522200/3x4/170/227/d0a46a9c80c50d8286fbc61af8816f0b/pP/mueller_norbert_gross.jpg",
+          "state": "Brandenburg",
+          "name": "Müller, Norbert",
+          "party": "Die Linke",
+          "vote": "enthalten"
+        },
+        {
           "id": "522156",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/M/522156-522156",
           "imgURL": "https://www.bundestag.de/resource/image/532000/3x4/170/227/a0b42c499102c14e7546a9ea0a5d97c9/vS/mueller_axel_gross.jpg",
@@ -3828,33 +3855,6 @@
           "name": "Müller, Detlef",
           "party": "SPD",
           "vote": "ja"
-        },
-        {
-          "id": "522184",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/522184-522184",
-          "imgURL": "https://www.bundestag.de/resource/image/522182/3x4/170/227/bea897b5c7c494430889f89cd8c671ce/BR/mueller_hansjoerg_gross.jpg",
-          "state": "Bayern",
-          "name": "Müller, Hansjörg",
-          "party": "AfD",
-          "vote": "nein"
-        },
-        {
-          "id": "522152",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/522152-522152",
-          "imgURL": "https://www.bundestag.de/resource/image/522150/3x4/170/227/6d766d980d934ec1cacb23a0637968ea/Oy/mueller_alexander_gross.jpg",
-          "state": "Hessen",
-          "name": "Müller, Alexander",
-          "party": "FDP",
-          "vote": "enthalten"
-        },
-        {
-          "id": "522202",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/522202-522202",
-          "imgURL": "https://www.bundestag.de/resource/image/522200/3x4/170/227/d0a46a9c80c50d8286fbc61af8816f0b/pP/mueller_norbert_gross.jpg",
-          "state": "Brandenburg",
-          "name": "Müller, Norbert",
-          "party": "Die Linke",
-          "vote": "enthalten"
         },
         {
           "id": "522168",
@@ -3965,15 +3965,6 @@
           "vote": "nein"
         },
         {
-          "id": "522308",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/N/522308-522308",
-          "imgURL": "https://www.bundestag.de/resource/image/530074/3x4/170/227/19950ede985e9bc1f5c64e5f612385af/wn/neumann_christoph_gross.jpg",
-          "state": "Sachsen",
-          "name": "Neumann, Christoph",
-          "party": "AfD",
-          "vote": "nein"
-        },
-        {
           "id": "522314",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/N/522314-522314",
           "imgURL": "https://www.bundestag.de/resource/image/526758/3x4/170/227/8b51a93af8e608e8b442f925420e595c/Wr/neumann_martin_gross.jpg",
@@ -3981,6 +3972,15 @@
           "name": "Neumann, Prof. Dr. Martin",
           "party": "FDP",
           "vote": "enthalten"
+        },
+        {
+          "id": "522308",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/N/522308-522308",
+          "imgURL": "https://www.bundestag.de/resource/image/530074/3x4/170/227/19950ede985e9bc1f5c64e5f612385af/wn/neumann_christoph_gross.jpg",
+          "state": "Sachsen",
+          "name": "Neumann, Christoph",
+          "party": "AfD",
+          "vote": "nein"
         },
         {
           "id": "522336",
@@ -4795,7 +4795,7 @@
         {
           "id": "523142",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/S/523142-523142",
-          "imgURL": "https://www.bundestag.de/resource/image/527258/3x4/170/227/d98ad46e6dffbdf854dc6f9bb0fa60fe/xc/sauter_christian_gross.jpg",
+          "imgURL": "https://www.bundestag.de/resource/image/527258/3x4/170/227/b881fd2787b115753d401ef45793ac05/Pm/sauter_christian_gross.jpg",
           "state": "Nordrhein-Westfalen",
           "name": "Sauter, Christian",
           "party": "FDP",
@@ -5000,15 +5000,6 @@
           "vote": "ja"
         },
         {
-          "id": "523400",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/S/schneider_carsten-523400",
-          "imgURL": "https://www.bundestag.de/resource/image/523398/3x4/170/227/e3f020a903aee30cbb1c985d82eff393/IT/schneider_carsten_gross.jpg",
-          "state": "Thüringen",
-          "name": "Schneider, Carsten",
-          "party": "SPD",
-          "vote": "ja"
-        },
-        {
           "id": "523406",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/S/523406-523406",
           "imgURL": "https://www.bundestag.de/resource/image/526746/3x4/170/227/283ac483d7c97d536b56ef275ae2f449/ut/schneider_joerg_gross.jpg",
@@ -5016,6 +5007,15 @@
           "name": "Schneider, Jörg",
           "party": "AfD",
           "vote": "nein"
+        },
+        {
+          "id": "523400",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/S/schneider_carsten-523400",
+          "imgURL": "https://www.bundestag.de/resource/image/523398/3x4/170/227/e3f020a903aee30cbb1c985d82eff393/IT/schneider_carsten_gross.jpg",
+          "state": "Thüringen",
+          "name": "Schneider, Carsten",
+          "party": "SPD",
+          "vote": "ja"
         },
         {
           "id": "523408",
@@ -5090,6 +5090,15 @@
           "vote": "na"
         },
         {
+          "id": "523538",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/S/523538-523538",
+          "imgURL": "https://www.bundestag.de/resource/image/523536/3x4/170/227/e3f288fa346df200033ebf6e95621bd8/JX/schulz_uwe_gross.jpg",
+          "state": "Hessen",
+          "name": "Schulz, Uwe",
+          "party": "AfD",
+          "vote": "nein"
+        },
+        {
           "id": "523528",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/S/523528-523528",
           "imgURL": "https://www.bundestag.de/resource/image/526778/3x4/170/227/2f5a4fb70573175bce48954fe3881c0d/Gw/schulz_martin_gross.jpg",
@@ -5106,15 +5115,6 @@
           "name": "Schulz, Swen",
           "party": "SPD",
           "vote": "ja"
-        },
-        {
-          "id": "523538",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/S/523538-523538",
-          "imgURL": "https://www.bundestag.de/resource/image/523536/3x4/170/227/e3f288fa346df200033ebf6e95621bd8/JX/schulz_uwe_gross.jpg",
-          "state": "Hessen",
-          "name": "Schulz, Uwe",
-          "party": "AfD",
-          "vote": "nein"
         },
         {
           "id": "523514",
@@ -5873,15 +5873,6 @@
           "vote": "ja"
         },
         {
-          "id": "524284",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/V/vogel_volkmar-524284",
-          "imgURL": "https://www.bundestag.de/resource/image/524282/3x4/170/227/378231e5b27d5fcf04a7a6bb6f8dce64/qk/vogel_volkmar_gross.jpg",
-          "state": "Thüringen",
-          "name": "Vogel, Volkmar",
-          "party": "CDU/CSU",
-          "vote": "ja"
-        },
-        {
           "id": "524280",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/V/524280-524280",
           "imgURL": "https://www.bundestag.de/resource/image/526950/3x4/170/227/e36f8e4b2e061a7c6595f1cfcfec2811/sa/vogel_johannes_gross.jpg",
@@ -5889,6 +5880,15 @@
           "name": "Vogel, Johannes",
           "party": "FDP",
           "vote": "enthalten"
+        },
+        {
+          "id": "524284",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/V/vogel_volkmar-524284",
+          "imgURL": "https://www.bundestag.de/resource/image/524282/3x4/170/227/378231e5b27d5fcf04a7a6bb6f8dce64/qk/vogel_volkmar_gross.jpg",
+          "state": "Thüringen",
+          "name": "Vogel, Volkmar",
+          "party": "CDU/CSU",
+          "vote": "ja"
         },
         {
           "id": "524288",

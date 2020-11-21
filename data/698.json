@@ -2102,20 +2102,20 @@
           "vote": "nein"
         },
         {
-          "id": "520400",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/H/hirte_heribert-520400",
-          "imgURL": "https://www.bundestag.de/resource/image/520398/3x4/170/227/2def6ddace2f14556309eb978481d541/nx/hirte_heribert_gross.jpg",
-          "state": "Nordrhein-Westfalen",
-          "name": "Hirte, Prof. Dr. Heribert",
-          "party": "CDU/CSU",
-          "vote": "ja"
-        },
-        {
           "id": "520396",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/H/hirte_christian-520396",
           "imgURL": "https://www.bundestag.de/resource/image/520392/3x4/170/227/9acad4b009c794b1be98e76d9e24b72e/RF/hirte_christian_gross.jpg",
           "state": "Thüringen",
           "name": "Hirte, Christian",
+          "party": "CDU/CSU",
+          "vote": "ja"
+        },
+        {
+          "id": "520400",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/H/hirte_heribert-520400",
+          "imgURL": "https://www.bundestag.de/resource/image/520398/3x4/170/227/2def6ddace2f14556309eb978481d541/nx/hirte_heribert_gross.jpg",
+          "state": "Nordrhein-Westfalen",
+          "name": "Hirte, Prof. Dr. Heribert",
           "party": "CDU/CSU",
           "vote": "ja"
         },
@@ -2351,7 +2351,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Jelpke, Ulla",
           "party": "Die Linke",
-          "vote": "na"
+          "vote": "nein"
         },
         {
           "id": "520698",
@@ -3188,7 +3188,7 @@
           "state": "Sachsen",
           "name": "Leutert, Michael",
           "party": "Die Linke",
-          "vote": "nein"
+          "vote": "na"
         },
         {
           "id": "521608",
@@ -3317,15 +3317,6 @@
           "vote": "ja"
         },
         {
-          "id": "521740",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/L/521740-521740",
-          "imgURL": "https://www.bundestag.de/resource/image/527238/3x4/170/227/527e4d07bc55e5af22f09de590f30420/rs/ludwig_saskia_gross.png",
-          "state": "Brandenburg",
-          "name": "Ludwig, Dr. Saskia",
-          "party": "CDU/CSU",
-          "vote": "enthalten"
-        },
-        {
           "id": "521736",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/L/ludwig_daniela-521736",
           "imgURL": "https://www.bundestag.de/resource/image/521734/3x4/170/227/343fe30d8b574b41a11c91c548c5dcf1/TR/ludwig_daniela_gross.jpg",
@@ -3333,6 +3324,15 @@
           "name": "Ludwig, Daniela",
           "party": "CDU/CSU",
           "vote": "ja"
+        },
+        {
+          "id": "521740",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/L/521740-521740",
+          "imgURL": "https://www.bundestag.de/resource/image/527238/3x4/170/227/527e4d07bc55e5af22f09de590f30420/rs/ludwig_saskia_gross.png",
+          "state": "Brandenburg",
+          "name": "Ludwig, Dr. Saskia",
+          "party": "CDU/CSU",
+          "vote": "enthalten"
         },
         {
           "id": "521754",
@@ -3767,21 +3767,12 @@
           "vote": "nein"
         },
         {
-          "id": "522166",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/mueller_carsten-522166",
-          "imgURL": "https://www.bundestag.de/resource/image/522164/3x4/170/227/7746e1b85b4a2cc30581dccffe1f2f73/SJ/mueller_carsten_gross.jpg",
-          "state": "Niedersachsen",
-          "name": "Müller, Carsten",
-          "party": "CDU/CSU",
-          "vote": "ja"
-        },
-        {
-          "id": "522156",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/522156-522156",
-          "imgURL": "https://www.bundestag.de/resource/image/532000/3x4/170/227/a0b42c499102c14e7546a9ea0a5d97c9/vS/mueller_axel_gross.jpg",
-          "state": "Baden-Württemberg",
-          "name": "Müller, Axel",
-          "party": "CDU/CSU",
+          "id": "522160",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/mueller_bettina-522160",
+          "imgURL": "https://www.bundestag.de/resource/image/522158/3x4/170/227/b65c65188146f2b07d4a8242ec29b38/LP/mueller_bettina_gross.jpg",
+          "state": "Hessen",
+          "name": "Müller, Bettina",
+          "party": "SPD",
           "vote": "ja"
         },
         {
@@ -3794,20 +3785,11 @@
           "vote": "ja"
         },
         {
-          "id": "522218",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/mueller_stefan-522218",
-          "imgURL": "https://www.bundestag.de/resource/image/522216/3x4/170/227/d4db0704e22d4300a65e2f8478f90d62/Xz/mueller_stefan_gross.png",
-          "state": "Bayern",
-          "name": "Müller, Stefan",
-          "party": "CDU/CSU",
-          "vote": "ja"
-        },
-        {
-          "id": "522214",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/522214-522214",
-          "imgURL": "https://www.bundestag.de/resource/image/529446/3x4/170/227/e0e47681acd8b13646ed65f8ffa27d5/jh/mueller_sepp_gross.jpg",
-          "state": "Sachsen-Anhalt",
-          "name": "Müller, Sepp",
+          "id": "522156",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/522156-522156",
+          "imgURL": "https://www.bundestag.de/resource/image/532000/3x4/170/227/a0b42c499102c14e7546a9ea0a5d97c9/vS/mueller_axel_gross.jpg",
+          "state": "Baden-Württemberg",
+          "name": "Müller, Axel",
           "party": "CDU/CSU",
           "vote": "ja"
         },
@@ -3821,12 +3803,30 @@
           "vote": "ja"
         },
         {
-          "id": "522160",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/mueller_bettina-522160",
-          "imgURL": "https://www.bundestag.de/resource/image/522158/3x4/170/227/b65c65188146f2b07d4a8242ec29b38/LP/mueller_bettina_gross.jpg",
-          "state": "Hessen",
-          "name": "Müller, Bettina",
-          "party": "SPD",
+          "id": "522214",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/522214-522214",
+          "imgURL": "https://www.bundestag.de/resource/image/529446/3x4/170/227/e0e47681acd8b13646ed65f8ffa27d5/jh/mueller_sepp_gross.jpg",
+          "state": "Sachsen-Anhalt",
+          "name": "Müller, Sepp",
+          "party": "CDU/CSU",
+          "vote": "ja"
+        },
+        {
+          "id": "522166",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/mueller_carsten-522166",
+          "imgURL": "https://www.bundestag.de/resource/image/522164/3x4/170/227/7746e1b85b4a2cc30581dccffe1f2f73/SJ/mueller_carsten_gross.jpg",
+          "state": "Niedersachsen",
+          "name": "Müller, Carsten",
+          "party": "CDU/CSU",
+          "vote": "ja"
+        },
+        {
+          "id": "522218",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/mueller_stefan-522218",
+          "imgURL": "https://www.bundestag.de/resource/image/522216/3x4/170/227/d4db0704e22d4300a65e2f8478f90d62/Xz/mueller_stefan_gross.png",
+          "state": "Bayern",
+          "name": "Müller, Stefan",
+          "party": "CDU/CSU",
           "vote": "ja"
         },
         {
@@ -4795,7 +4795,7 @@
         {
           "id": "523142",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/S/523142-523142",
-          "imgURL": "https://www.bundestag.de/resource/image/527258/3x4/170/227/d98ad46e6dffbdf854dc6f9bb0fa60fe/xc/sauter_christian_gross.jpg",
+          "imgURL": "https://www.bundestag.de/resource/image/527258/3x4/170/227/b881fd2787b115753d401ef45793ac05/Pm/sauter_christian_gross.jpg",
           "state": "Nordrhein-Westfalen",
           "name": "Sauter, Christian",
           "party": "FDP",
@@ -4946,20 +4946,20 @@
           "vote": "ja"
         },
         {
-          "id": "523330",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/S/schmidt_dagmar-523330",
-          "imgURL": "https://www.bundestag.de/resource/image/523328/3x4/170/227/8b8df014ddee0750f117da67aa67e28/tf/schmidt_dagmar_gross.jpg",
-          "state": "Hessen",
-          "name": "Schmidt, Dagmar",
-          "party": "SPD",
-          "vote": "ja"
-        },
-        {
           "id": "523374",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/S/schmidt_ulla-523374",
           "imgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
           "state": "Nordrhein-Westfalen",
           "name": "Schmidt, Ulla",
+          "party": "SPD",
+          "vote": "ja"
+        },
+        {
+          "id": "523330",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/S/schmidt_dagmar-523330",
+          "imgURL": "https://www.bundestag.de/resource/image/523328/3x4/170/227/8b8df014ddee0750f117da67aa67e28/tf/schmidt_dagmar_gross.jpg",
+          "state": "Hessen",
+          "name": "Schmidt, Dagmar",
           "party": "SPD",
           "vote": "ja"
         },

@@ -1877,21 +1877,21 @@
           "vote": "enthalten"
         },
         {
-          "id": "520216",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/H/heil_mechthild-520216",
-          "imgURL": "https://www.bundestag.de/resource/image/520212/3x4/170/227/871bada21c1d8213d4dd83484311576a/Ma/heil_mechthild_gross.jpg",
-          "state": "Rheinland-Pfalz",
-          "name": "Heil, Mechthild",
-          "party": "CDU/CSU",
-          "vote": "nein"
-        },
-        {
           "id": "520210",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/H/heil_hubertus-520210",
           "imgURL": "https://www.bundestag.de/resource/image/520208/3x4/170/227/3675ad7aa802dd0610e6e58b921832a/iI/heil_hubertus_gross.jpg",
           "state": "Niedersachsen",
           "name": "Heil, Hubertus",
           "party": "SPD",
+          "vote": "nein"
+        },
+        {
+          "id": "520216",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/H/heil_mechthild-520216",
+          "imgURL": "https://www.bundestag.de/resource/image/520212/3x4/170/227/871bada21c1d8213d4dd83484311576a/Ma/heil_mechthild_gross.jpg",
+          "state": "Rheinland-Pfalz",
+          "name": "Heil, Mechthild",
+          "party": "CDU/CSU",
           "vote": "nein"
         },
         {
@@ -1904,15 +1904,6 @@
           "vote": "nein"
         },
         {
-          "id": "520234",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/H/heinrich_frank-520234",
-          "imgURL": "https://www.bundestag.de/resource/image/520230/3x4/170/227/c6433a910e406c67b9dad0f5bc73d0a0/ou/heinrich_frank_gross.jpg",
-          "state": "Sachsen",
-          "name": "Heinrich, Frank",
-          "party": "CDU/CSU",
-          "vote": "nein"
-        },
-        {
           "id": "520238",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/H/heinrich_gabriela-520238",
           "imgURL": "https://www.bundestag.de/resource/image/520236/3x4/170/227/e7fa8125324b90ccb146109ccf1f2975/kX/heinrich_gabriela_gross.jpg",
@@ -1920,6 +1911,15 @@
           "name": "Heinrich, Gabriela",
           "party": "SPD",
           "vote": "na"
+        },
+        {
+          "id": "520234",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/H/heinrich_frank-520234",
+          "imgURL": "https://www.bundestag.de/resource/image/520230/3x4/170/227/c6433a910e406c67b9dad0f5bc73d0a0/ou/heinrich_frank_gross.jpg",
+          "state": "Sachsen",
+          "name": "Heinrich, Frank",
+          "party": "CDU/CSU",
+          "vote": "nein"
         },
         {
           "id": "520248",
@@ -2351,7 +2351,7 @@
           "state": "Nordrhein-Westfalen",
           "name": "Jelpke, Ulla",
           "party": "Die Linke",
-          "vote": "na"
+          "vote": "ja"
         },
         {
           "id": "520698",
@@ -2372,20 +2372,20 @@
           "vote": "nein"
         },
         {
-          "id": "520742",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/J/jung_andreas-520742",
-          "imgURL": "https://www.bundestag.de/resource/image/520738/3x4/170/227/2632f92b914f576353b7659f2d28d116/oh/jung_andreas_gross.jpg",
-          "state": "Baden-Württemberg",
-          "name": "Jung, Andreas",
-          "party": "CDU/CSU",
-          "vote": "nein"
-        },
-        {
           "id": "520748",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/J/520748-520748",
           "imgURL": "https://www.bundestag.de/resource/image/520746/3x4/170/227/f75d92c41958975f14481912c7c763d4/SV/jung_ingmar_gross.jpg",
           "state": "Hessen",
           "name": "Jung, Ingmar",
+          "party": "CDU/CSU",
+          "vote": "nein"
+        },
+        {
+          "id": "520742",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/J/jung_andreas-520742",
+          "imgURL": "https://www.bundestag.de/resource/image/520738/3x4/170/227/2632f92b914f576353b7659f2d28d116/oh/jung_andreas_gross.jpg",
+          "state": "Baden-Württemberg",
+          "name": "Jung, Andreas",
           "party": "CDU/CSU",
           "vote": "nein"
         },
@@ -3038,21 +3038,21 @@
           "vote": "nein"
         },
         {
-          "id": "521486",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/L/lange_ulrich-521486",
-          "imgURL": "https://www.bundestag.de/resource/image/521484/3x4/170/227/193c9556c3c439ee361a2c19b3cf30eb/Du/lange_ulrich_gross.jpg",
-          "state": "Bayern",
-          "name": "Lange, Ulrich",
-          "party": "CDU/CSU",
-          "vote": "nein"
-        },
-        {
           "id": "521480",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/L/lange_christian-521480",
           "imgURL": "https://www.bundestag.de/resource/image/521478/3x4/170/227/eba0c1c19bb6b1d7f0651f05ba7e2aae/cj/lange_christian_gross.jpg",
           "state": "Baden-Württemberg",
           "name": "Lange, Christian",
           "party": "SPD",
+          "vote": "nein"
+        },
+        {
+          "id": "521486",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/L/lange_ulrich-521486",
+          "imgURL": "https://www.bundestag.de/resource/image/521484/3x4/170/227/193c9556c3c439ee361a2c19b3cf30eb/Du/lange_ulrich_gross.jpg",
+          "state": "Bayern",
+          "name": "Lange, Ulrich",
+          "party": "CDU/CSU",
           "vote": "nein"
         },
         {
@@ -3101,21 +3101,21 @@
           "vote": "enthalten"
         },
         {
-          "id": "521530",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/L/521530-521530",
-          "imgURL": "https://www.bundestag.de/resource/image/531392/3x4/170/227/28f42022041eb8ab408f911b744687ad/MZ/lehmann_jens_gross.jpg",
-          "state": "Sachsen",
-          "name": "Lehmann, Jens",
-          "party": "CDU/CSU",
-          "vote": "nein"
-        },
-        {
           "id": "521538",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/L/lehmann_sylvia-521538",
           "imgURL": "https://www.bundestag.de/resource/image/526854/3x4/170/227/5d14d01e293539b7a78e82811d195122/mo/lehmann_sylvia_gross.jpg",
           "state": "Brandenburg",
           "name": "Lehmann, Sylvia",
           "party": "SPD",
+          "vote": "nein"
+        },
+        {
+          "id": "521530",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/L/521530-521530",
+          "imgURL": "https://www.bundestag.de/resource/image/531392/3x4/170/227/28f42022041eb8ab408f911b744687ad/MZ/lehmann_jens_gross.jpg",
+          "state": "Sachsen",
+          "name": "Lehmann, Jens",
+          "party": "CDU/CSU",
           "vote": "nein"
         },
         {
@@ -3188,7 +3188,7 @@
           "state": "Sachsen",
           "name": "Leutert, Michael",
           "party": "Die Linke",
-          "vote": "ja"
+          "vote": "na"
         },
         {
           "id": "521608",
@@ -3767,6 +3767,24 @@
           "vote": "nein"
         },
         {
+          "id": "522160",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/mueller_bettina-522160",
+          "imgURL": "https://www.bundestag.de/resource/image/522158/3x4/170/227/b65c65188146f2b07d4a8242ec29b38/LP/mueller_bettina_gross.jpg",
+          "state": "Hessen",
+          "name": "Müller, Bettina",
+          "party": "SPD",
+          "vote": "nein"
+        },
+        {
+          "id": "522172",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/522172-522172",
+          "imgURL": "https://www.bundestag.de/resource/image/522170/3x4/170/227/6ad085b711f5bf158109c7fe3cb4d4a4/Wl/mueller_detlef_gross.jpg",
+          "state": "Sachsen",
+          "name": "Müller, Detlef",
+          "party": "SPD",
+          "vote": "nein"
+        },
+        {
           "id": "522156",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/M/522156-522156",
           "imgURL": "https://www.bundestag.de/resource/image/532000/3x4/170/227/a0b42c499102c14e7546a9ea0a5d97c9/vS/mueller_axel_gross.jpg",
@@ -3809,24 +3827,6 @@
           "state": "Bayern",
           "name": "Müller, Stefan",
           "party": "CDU/CSU",
-          "vote": "nein"
-        },
-        {
-          "id": "522160",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/mueller_bettina-522160",
-          "imgURL": "https://www.bundestag.de/resource/image/522158/3x4/170/227/b65c65188146f2b07d4a8242ec29b38/LP/mueller_bettina_gross.jpg",
-          "state": "Hessen",
-          "name": "Müller, Bettina",
-          "party": "SPD",
-          "vote": "nein"
-        },
-        {
-          "id": "522172",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/M/522172-522172",
-          "imgURL": "https://www.bundestag.de/resource/image/522170/3x4/170/227/6ad085b711f5bf158109c7fe3cb4d4a4/Wl/mueller_detlef_gross.jpg",
-          "state": "Sachsen",
-          "name": "Müller, Detlef",
-          "party": "SPD",
           "vote": "nein"
         },
         {
@@ -4795,20 +4795,11 @@
         {
           "id": "523142",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/S/523142-523142",
-          "imgURL": "https://www.bundestag.de/resource/image/527258/3x4/170/227/d98ad46e6dffbdf854dc6f9bb0fa60fe/xc/sauter_christian_gross.jpg",
+          "imgURL": "https://www.bundestag.de/resource/image/527258/3x4/170/227/b881fd2787b115753d401ef45793ac05/Pm/sauter_christian_gross.jpg",
           "state": "Nordrhein-Westfalen",
           "name": "Sauter, Christian",
           "party": "FDP",
           "vote": "enthalten"
-        },
-        {
-          "id": "523162",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/S/schaefer_anita-523162",
-          "imgURL": "https://www.bundestag.de/resource/image/523160/3x4/170/227/5e66f970e8090d6bf5c3045298f1aca7/PH/schaefer_anita_gross.jpg",
-          "state": "Rheinland-Pfalz",
-          "name": "Schäfer, Anita",
-          "party": "CDU/CSU",
-          "vote": "na"
         },
         {
           "id": "523166",
@@ -4818,6 +4809,15 @@
           "name": "Schäfer, Axel",
           "party": "SPD",
           "vote": "nein"
+        },
+        {
+          "id": "523162",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/S/schaefer_anita-523162",
+          "imgURL": "https://www.bundestag.de/resource/image/523160/3x4/170/227/5e66f970e8090d6bf5c3045298f1aca7/PH/schaefer_anita_gross.jpg",
+          "state": "Rheinland-Pfalz",
+          "name": "Schäfer, Anita",
+          "party": "CDU/CSU",
+          "vote": "na"
         },
         {
           "id": "523178",
@@ -4937,15 +4937,6 @@
           "vote": "nein"
         },
         {
-          "id": "523326",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/S/schmidt_christian-523326",
-          "imgURL": "https://www.bundestag.de/resource/image/523324/3x4/170/227/b99d5f277d46aacfa96a52557ee36ddf/Yg/schmidt_christian_gross.jpg",
-          "state": "Bayern",
-          "name": "Schmidt, Christian",
-          "party": "CDU/CSU",
-          "vote": "nein"
-        },
-        {
           "id": "523376",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/S/523376-523376",
           "imgURL": "https://www.bundestag.de/resource/image/529336/3x4/170/227/caa1b37ea6037a5134b73baca1699cac/Ds/schmidt_uwe_gross.jpg",
@@ -4970,6 +4961,15 @@
           "state": "Hessen",
           "name": "Schmidt, Dagmar",
           "party": "SPD",
+          "vote": "nein"
+        },
+        {
+          "id": "523326",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/S/schmidt_christian-523326",
+          "imgURL": "https://www.bundestag.de/resource/image/523324/3x4/170/227/b99d5f277d46aacfa96a52557ee36ddf/Yg/schmidt_christian_gross.jpg",
+          "state": "Bayern",
+          "name": "Schmidt, Christian",
+          "party": "CDU/CSU",
           "vote": "nein"
         },
         {
@@ -5927,20 +5927,20 @@
           "vote": "nein"
         },
         {
-          "id": "524318",
-          "URL": "https://www.bundestag.de/abgeordnete/biografien/V/524318-524318",
-          "imgURL": "https://www.bundestag.de/resource/image/524316/3x4/170/227/e4e8bc6d266bb86cc022cc5da221a94b/mb/vries_christopher_gross.jpg",
-          "state": "Hamburg",
-          "name": "Vries, Christoph de",
-          "party": "CDU/CSU",
-          "vote": "nein"
-        },
-        {
           "id": "524322",
           "URL": "https://www.bundestag.de/abgeordnete/biografien/V/vries_kees_de-524322",
           "imgURL": "https://www.bundestag.de/resource/image/524320/3x4/170/227/bec3c373c50020039b1a7f95b44bbe2d/RG/de_vries_kees_gross.jpg",
           "state": "Sachsen-Anhalt",
           "name": "Vries, Kees de",
+          "party": "CDU/CSU",
+          "vote": "nein"
+        },
+        {
+          "id": "524318",
+          "URL": "https://www.bundestag.de/abgeordnete/biografien/V/524318-524318",
+          "imgURL": "https://www.bundestag.de/resource/image/524316/3x4/170/227/e4e8bc6d266bb86cc022cc5da221a94b/mb/vries_christopher_gross.jpg",
+          "state": "Hamburg",
+          "name": "Vries, Christoph de",
           "party": "CDU/CSU",
           "vote": "nein"
         },
